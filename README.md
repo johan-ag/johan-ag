@@ -1,4 +1,9 @@
-### Hi there 👋
+# Johan Avila Guerrero
+## Software Development Developer -MELI
+
+
+- MELI
+- IT Bootcamp 
 
 <!--
 **johan-ag/johan-ag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
